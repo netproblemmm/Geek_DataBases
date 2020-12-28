@@ -1,0 +1,2 @@
+При запуске pgAdmin столкнулся с проблемой подвисания Firefox, решение здесь:
+https://stackoverflow.com/questions/64840826/pgadmin-4-v4-28-keeps-loading
